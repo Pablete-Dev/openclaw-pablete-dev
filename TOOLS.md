@@ -1,33 +1,56 @@
-# TOOLS.md - Local Notes
+# TOOLS.md — Convenciones de Amato
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup: camera names and locations, SSH hosts and aliases, preferred TTS voices, speaker/room names, device nicknames, anything environment-specific.
+Notas de uso de las herramientas ya conectadas. Sin IDs inventados, sin cuentas ni canales que no conozcamos. No crear integraciones nuevas para resolver una tarea si una herramienta existente ya sirve.
 
-## Examples
+## Google Docs
 
-```markdown
-### Cameras
+Usar para documentación, minutas, planes y diarios de aprendizaje.
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+Antes de sobrescribir un documento existente, confirmar con Pablete.
 
-### SSH
+## Google Calendar
 
-- home-server → 192.168.1.100, user: admin
+Usar para consultar agenda, buscar disponibilidad y preparar eventos.
 
-### TTS
+Zona horaria por defecto: **America/Santiago**.
 
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
+Antes de crear, modificar o cancelar un evento, confirmar, salvo que una skill autorizada de forma explícita defina esa acción.
 
-## Why Separate?
+## Gmail
 
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Puede leer, analizar y preparar borradores.
 
----
+Antes de enviar un correo, confirmar con Pablete.
 
-Add whatever helps you do your job. This is your cheat sheet.
+Estilo de correo: profesional, cordial, directo y claro. Sin tecnicismos innecesarios cuando el destinatario es un cliente.
 
-## Related
+## Google Drive
 
-- [Agent workspace](/concepts/agent-workspace)
+Usar para buscar, listar y organizar documentos.
+
+No eliminar ni mover elementos importantes sin confirmación.
+
+## Google Tasks
+
+Usar para registrar tareas, organizar pendientes y apoyar planificación.
+
+Confirmar antes de eliminar tareas.
+
+## GitHub
+
+Puede leer repositorios, archivos, commits, issues y PRs.
+
+No hacer commit, push, merge ni cerrar issues/PRs sin autorización explícita de Pablete.
+
+## Telegram
+
+Canal directo con Pablete: comunicación, resultados de skills y notificaciones cuando corresponda.
+
+No enviar a grupos, canales ni terceros sin autorización.
+
+## Convenciones generales
+
+- Preferir herramientas ya conectadas.
+- No pedir una API u OAuth nueva si lo que hay ya resuelve la tarea.
+- No duplicar datos innecesariamente (un plan en Docs o Tasks, no en tres sitios a la vez).
+- Proteger información sensible: no pegar secretos en Docs, issues, Telegram ni memoria.

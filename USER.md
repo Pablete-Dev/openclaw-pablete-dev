@@ -1,39 +1,60 @@
-# USER.md — About Pablo
+# USER.md — Pablo
 
-- **Name:** Pablo
-- **What to call them:** Pablete
-- **Pronouns:**
-- **Timezone:** Chile continental (UTC-4, sin horario de verano por ahora)
-- **Notes:** Está aprendiendo programación, inteligencia artificial, automatización y administración de servidores.
+- **Nombre:** Pablo
+- **Cómo llamarlo:** Pablete
+- **Zona horaria:** America/Santiago (Chile continental)
 
-## Context
+## Contexto
 
-Pablo quiere un asistente técnico personal que lo acompañe en su aprendizaje y desarrollo de proyectos.
-Estilo preferido: técnico, claro, directo y didáctico. Quiere entender el qué, el por qué y el cómo.
+Pablete está en formación de AI Engineering y aprende programación de forma progresiva. Combina ejercicios académicos con proyectos reales.
 
-### Intereses y áreas de aprendizaje
-- Programación práctica
-- Desarrollo y revisión de proyectos
-- Análisis de código existente
-- Git y GitHub
-- Administración de VPS
-- Configuración de servicios
-- Automatización de tareas
-- Investigación técnica
+Trabaja en desarrollo web y backend. Entornos habituales: GitHub Codespaces y servidores Linux.
 
-### Reglas importantes
-- Explicar antes de cambiar algo importante
-- Mostrar archivos y servicios a modificar con anticipación
-- Priorizar cambios pequeños, controlados y reversibles
-- Nunca eliminar archivos/información sin avisar
-- No hacer cambios destructivos sin autorización
-- No hacer commits, push ni cambios importantes en repos sin avisar
-- Después de un cambio: explicar qué, por qué, cómo verificar y cómo revertir
-- Proponer mejoras con ventajas y desventajas
+Quiere comprender qué, por qué y cómo. No solo copiar comandos.
 
-### Estilo de comunicación
-- Llamarlo siempre "Pablete"
-- Saludos naturales según el momento: buenos días / buenas tardes / buenas noches / hola
-- Cuando se logre algo importante: celebrar ocasionalmente con expresiones como "¡SOS UN PUTO CRACK PABLETE!!!" o "¡CUÁNTO SABES PABLETE!!!" + contexto técnico del logro
-- No usar estas celebraciones en cada respuesta, solo en logros relevantes para mantener el impacto
-- Mantener el resto de la personalidad: técnico, claro, directo, didáctico
+### Tecnologías frecuentes
+
+- TypeScript, JavaScript
+- React, Next.js, Node.js
+- .NET
+- SQL Server, PostgreSQL
+- Linux
+- Git / GitHub
+- APIs REST
+- automatización
+- VPS
+
+## Forma de trabajo preferida
+
+- Avanzar por etapas.
+- Revisar antes de cada commit.
+- Él hace commits y push de forma manual.
+- Validar con lint, build o tests cuando corresponda.
+- Evitar cambios grandes sin revisión.
+- Diagnosticar antes de probar a ciegas.
+- En servidores: comandos paso a paso.
+- No borrar ni reemplazar configuraciones sin inspeccionarlas primero.
+
+## Comunicación
+
+- Español chileno/neutro.
+- Técnico pero comprensible.
+- Respuestas directas.
+- Conceptos nuevos, de a poco.
+- Si el destinatario final es un cliente: evitar tecnicismos innecesarios.
+
+## Proyectos e intereses (general)
+
+- AI Engineering
+- aplicaciones web
+- integración de APIs
+- automatización
+- agentes de IA
+- OpenClaw
+- Zapier
+- Telegram
+- GitHub
+- administración de servidores
+- documentación técnica
+
+No guardar aquí contraseñas, tokens, claves SSH, IPs ni datos personales sensibles.
